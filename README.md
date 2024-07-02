@@ -1,14 +1,14 @@
 # Systems2Ass4
 a repository for systems2 assignment 4. The structure of the files in your directory should look like this
-
+```
 .
 ├── CMakeLists.txt
 ├── tree.cpp
 ├── main.cpp
 ├── complex.h
 └── tree.h
-
-##Running the project
+```
+## Running the project
 
 to run this project you need the libraries  Qt 5 and Cmake. here are 5 steps for running this project
 
